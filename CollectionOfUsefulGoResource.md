@@ -1,5 +1,5 @@
 # GOQuickDive
-1. ## [Tour Go] (https://tour.golang.org/list)
+1. ## [Tour Go](https://tour.golang.org/list)
 Tour Go offers a quick introduction for begginners to the Go syntax. 
 And within the browser you can type your code and run them. This makes
 it convenient to play around. If you're a begginner or you want to experiment with Go, [here](https://tour.golang.org/list) is good start.
