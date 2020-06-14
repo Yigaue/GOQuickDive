@@ -10,3 +10,5 @@ import (
 func main() {
 	fmt.Println(math.Pi) // 
 }
+
+// // terminal: go run exported-names.go
