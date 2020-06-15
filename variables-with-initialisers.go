@@ -11,3 +11,5 @@ var i, name, gender, occupation = 2, "Sonia", "male", "Developer"
 func main(){
 	fmt.Println(1, name, gender, occupation)
 }
+
+// on terminal: go run variables-with-initialisers.go
