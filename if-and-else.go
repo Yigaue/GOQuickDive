@@ -21,3 +21,5 @@ func main () {
 		pow(3, 3, 20),
 	)
 }
+
+// go run if-and-else.go
