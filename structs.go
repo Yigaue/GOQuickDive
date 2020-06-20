@@ -12,3 +12,5 @@ type Vertex struct {
 func main() {
 	fmt.Println(Vertex{1, 2})
 }
+
+// terminal: go run structs.go
