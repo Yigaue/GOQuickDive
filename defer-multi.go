@@ -13,3 +13,5 @@ func main() {
 
 	fmt.Println("done")
 }
+
+// terminal: go run defer-multi.go
