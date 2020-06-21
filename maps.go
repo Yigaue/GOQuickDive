@@ -16,3 +16,5 @@ func main() {
 	}
 	fmt.Println(m["Bell Labs"])
 }
+
+// terminal: go run maps.go
