@@ -11,3 +11,4 @@ func main() {
 		fmt.Printf("2**%d = %d\n", i, v)
 	}
 }
+// terminal: go run range.go
