@@ -16,3 +16,5 @@ var m = map[string]Vertex{
 func main() {
 	fmt.Println(m)
 }
+
+// terminal : go run map-literals.go
