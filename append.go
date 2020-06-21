@@ -21,6 +21,5 @@ func main() {
 
 func printSlice(s []int) {
 	fmt.Printf("len=%d cap=%d %v\n", len(s), cap(s), s)
-
 }
 // terminal: go run append.go
