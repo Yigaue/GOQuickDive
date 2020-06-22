@@ -13,9 +13,11 @@ func adder() func(int) int {
 func main() {
 	pos, neg := adder(), adder()
 	for i :=0 ; i < 10; i++ {
-		fmt.Printn(
+		fmt.Println(
 			pos(i),
 			neg(-2*i),
 		)
 	}
 }
+
+// terminal: go run function-closures.go
