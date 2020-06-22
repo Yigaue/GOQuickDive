@@ -20,3 +20,5 @@ func main() {
 	v := Vertex{3, 4}
 	fmt.Println(v.Abs())
 }
+
+// terminal: go run methods.go
