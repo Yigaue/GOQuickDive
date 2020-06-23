@@ -30,3 +30,6 @@ func main() {
 	fmt.Println(p.Abs())
 	fmt.Println(AbsFunc(*p))
 }
+
+// terminal: go run indirection-values.go
+
