@@ -31,3 +31,5 @@ func main() {
 	v.Scale(5)
 	fmt.Printf("After Scaling: %+v, Abs: %v\n", v, v.Abs())
 }
+
+// go run methods-with-pointer-receivers.go
