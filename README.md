@@ -10,8 +10,7 @@ Tour Go offers a quick introduction for beginners to the Go syntax.
 And within the browser, you can type your code and run it. This makes
 it convenient to play around. If you're a beginner or you want to experiment with Go, [here](https://tour.golang.org/list) is a good start.
 
-## 3. Learning.Oreilly 
-### [Hands-On Go Programming](https://learning.oreilly.com/library/view/hands-on-go-programming/9781789531756/)
+## 3.  Hands-On Go Programming
 This is a fantastic book to dive deep into the go language. You can read the entire book
 on your browser. And did I mention it is free?
 This book is different because it's not theory as usual. It's practice all the way.
@@ -19,7 +18,6 @@ If you are the type that loves to learn by reading, then it is a great option.
 Meanwhile, it's a great start for anyone.
 
 ## 4. [Learn GO in 12 Minutes - Jake Wright](https://www.youtube.com/watch?v=C8LgvuEBraI)
-
 If you are following this list. I would recommend you take this introductory video by Jake before 
 the ones above it here. It will start you up quickly before you dive deep into Go.
 
@@ -35,7 +33,7 @@ If you have the means, you can check this 3-hour course out on PluralSight. This
 Well, wouldn't you need the documentation for a language you want to master?
 I tell you this documentation is different. It's friendly and a go-to resource anytime.
 
-## 8 . [Web Development With Go](https://www.usegolang.com/)
+## 8. [Web Development With Go](https://www.usegolang.com/)
 Jon Calhoun has put together a wonder screencast tutorial. His approach to teaching is clear and easy to follow. The course is beginner friend and Jon tries to explain everything in detail. Even though this course is paid Jon has another good resource to learn Go. Do well to check him out [here](https://courses.calhoun.io/courses).
 
 ## More
